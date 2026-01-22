@@ -1,0 +1,9 @@
+Name: Olawale Joshua
+Matric Number: 23CG034125
+
+Machine Learning Algorithm Used:
+Random Forest Classifier
+
+Model Persistence Method:
+Joblib
+
